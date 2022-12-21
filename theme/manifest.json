@@ -1,0 +1,16 @@
+{
+    "version": "1.0.2",
+    "manifest_version": 3,
+    "name": "E-ink chrome theme",
+    "description": "Theme for chrome browser and E-ink display",
+    "theme": {
+      "colors" : {
+        "frame" : [255, 255, 255],
+        "toolbar" : [255, 255, 255],
+        "ntp_text" : [0, 0, 0],
+        "ntp_link" :  [0, 0, 0],
+        "ntp_section" :  [204, 204, 204],
+        "button_background" : [255, 255, 255]
+      }
+    }
+  }
